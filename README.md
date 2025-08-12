@@ -34,7 +34,7 @@ The primary task involves training both black-box models and their corresponding
 - Post-hoc explanations for black-box models will be generated using existing XAI libraries such as Captum or TorchCAM, while explanations for white-box models will be produced directly alongside the model’s predictions.
 
 ## References
-[1] Djoumessi, K., & Berens, P. (2025, May 23). Soft-CAM: Making black box models self-explainable for high-stakes decisions. arXiv.org. https://arxiv.org/abs/2505.17748
-[2] Djoumessi, K, Ilanchezian, I., Kühlewein, L., Faber, H., Baumgartner, C. F., Bah, B., Berens, P., & Koch, L. M. (n.d.). Sparse activations for interpretable disease grading. OpenReview. https://openreview.net/forum?id=us8BFTsWOq
-[3] Yeh, C., Hsieh, C., Suggala, A. S., Inouye, D., I., & Ravikumar, P. (2019, January 27). On the (In) fidelity and Sensitivity for Explanations. arXiv.org. https://arxiv.org/abs/1901.09392
+[1] Djoumessi, K., & Berens, P. (2025, May 23). Soft-CAM: Making black box models self-explainable for high-stakes decisions. arXiv.org. https://arxiv.org/abs/2505.17748 <br>
+[2] Djoumessi, K, Ilanchezian, I., Kühlewein, L., Faber, H., Baumgartner, C. F., Bah, B., Berens, P., & Koch, L. M. (n.d.). Sparse activations for interpretable disease grading. OpenReview. https://openreview.net/forum?id=us8BFTsWOq <br>
+[3] Yeh, C., Hsieh, C., Suggala, A. S., Inouye, D., I., & Ravikumar, P. (2019, January 27). On the (In) fidelity and Sensitivity for Explanations. arXiv.org. https://arxiv.org/abs/1901.09392 <br>
 [4] Barnett, A. J., Schwartz, F. R., Tao, C., Chen, C., Ren, Y., Lo, J. Y., & Rudin, C. (2021). A case-based interpretable deep learning model for classification of mass lesions in digital mammography. Nature Machine Intelligence, 3(12), 1061–1070. https://doi.org/10.1038/s42256-021-00423-x
